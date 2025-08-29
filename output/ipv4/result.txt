@@ -1,22 +1,8 @@
 🕘️更新时间,#genre#
-2025-08-29 18:33:32,http://8.134.110.147:5300/?id=cctv1
+2025-08-30 06:29:24,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://8.134.110.147:5300/?id=cctv1
-CCTV-2,http://8.134.110.147:5300/?id=cctv2
-CCTV-3,http://8.134.110.147:5300/?id=cctv3
-CCTV-4,http://8.134.110.147:5300/?id=cctv4
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-6,http://8.134.110.147:5300/?id=cctv6
-CCTV-7,http://8.134.110.147:5300/?id=cctv7
-CCTV-8,http://8.134.110.147:5300/?id=cctv8
-CCTV-9,http://8.134.110.147:5300/?id=cctv9
-CCTV-10,http://8.134.110.147:5300/?id=cctv10
-CCTV-12,http://8.134.110.147:5300/?id=cctv12
-CCTV-13,http://8.134.110.147:5300/?id=cctv13
-CCTV-14,http://8.134.110.147:5300/?id=cctv14
-CCTV-15,http://8.134.110.147:5300/?id=cctv15
-CCTV-17,http://8.134.110.147:5300/?id=cctv17
 
 💰央视付费频道,#genre#
 央视台球,http://183.11.239.36:808/hls/73/index.m3u8
@@ -65,27 +51,21 @@ CCTV-17,http://8.134.110.147:5300/?id=cctv17
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://8.134.110.147:5300/?id=gdws
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东方卫视,http://8.134.110.147:5300/?id=dfws
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://8.134.110.147:5300/?id=hnws
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-江苏卫视,http://8.134.110.147:5300/?id=jsws
-江西卫视,http://8.134.110.147:5300/?id=jxws
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 山西卫视,http://171.15.18.199:8180/TV00000000000000000038@HHZT
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
-陕西卫视,http://8.134.110.147:5300/?id=sxws
 陕西卫视,http://171.15.18.199:8180/TV00000000000000000039@HHZT
 四川卫视,http://1b6467f415.iok.la:9931/tsfile/live/1072_1.m3u8
 
 🏀体育频道,#genre#
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 爱体育,rtsp://180.95.143.19/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://116.176.26.18/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227315/10000100000000060000000001946406_0.smil
