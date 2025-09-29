@@ -1,27 +1,63 @@
 🕘️更新时间,#genre#
-2025-09-29 18:36:22,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
+2025-09-30 06:29:06,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
+CETV-1,https://cc06.tv12.xyz/23.m3u8
 
 💰央视付费频道,#genre#
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 怀旧剧场,https://cc06.tv12.xyz/52.m3u8
 女性时尚,https://cc06.tv12.xyz/95.m3u8
+风云足球,https://cc06.tv12.xyz/41.m3u8
 电视指南,https://cc06.tv12.xyz/39.m3u8
+世界地理,https://cc06.tv12.xyz/104.m3u8
 
 📡卫视频道,#genre#
+广东卫视,https://cc06.tv12.xyz/43.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
+浙江卫视,https://cc06.tv12.xyz/117.m3u8
+湖南卫视,https://cc06.tv12.xyz/57.m3u8
+北京卫视,https://cc06.tv12.xyz/27.m3u8
+湖北卫视,https://cc06.tv12.xyz/50.m3u8
+黑龙江卫视,https://cc06.tv12.xyz/53.m3u8
+安徽卫视,https://cc06.tv12.xyz/26.m3u8
+重庆卫视,https://cc06.tv12.xyz/34.m3u8
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
+东方卫视,https://cc06.tv12.xyz/37.m3u8
+东南卫视,https://cc06.tv12.xyz/38.m3u8
+甘肃卫视,https://cc06.tv12.xyz/44.m3u8
+广西卫视,https://cc06.tv12.xyz/46.m3u8
+贵州卫视,https://cc06.tv12.xyz/48.m3u8
+海南卫视,https://cc06.tv12.xyz/93.m3u8
+河北卫视,https://cc06.tv12.xyz/51.m3u8
+河南卫视,https://cc06.tv12.xyz/49.m3u8
+吉林卫视,https://cc06.tv12.xyz/60.m3u8
+江苏卫视,https://cc06.tv12.xyz/61.m3u8
+江西卫视,https://cc06.tv12.xyz/62.m3u8
+辽宁卫视,https://cc06.tv12.xyz/70.m3u8
+内蒙古卫视,https://cc06.tv12.xyz/94.m3u8
+宁夏卫视,https://cc06.tv12.xyz/96.m3u8
+青海卫视,https://cc06.tv12.xyz/97.m3u8
+山东卫视,https://cc06.tv12.xyz/101.m3u8
+山西卫视,https://cc06.tv12.xyz/107.m3u8
+陕西卫视,https://cc06.tv12.xyz/106.m3u8
+四川卫视,https://cc06.tv12.xyz/99.m3u8
+深圳卫视,https://cc06.tv12.xyz/108.m3u8
+西藏卫视,https://cc06.tv12.xyz/112.m3u8
+新疆卫视,https://cc06.tv12.xyz/109.m3u8
+云南卫视,https://cc06.tv12.xyz/114.m3u8
 
 🏀体育频道,#genre#
-纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
+纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 五星体育,https://other.ottiptv.cc/wxty.m3u8
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
 睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+天元围棋,https://cc06.tv12.xyz/47.m3u8
+快乐垂钓,https://cc06.tv12.xyz/56.m3u8
