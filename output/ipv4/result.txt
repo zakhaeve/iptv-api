@@ -1,32 +1,18 @@
 🕘️更新时间,#genre#
-2025-12-10 06:33:58,http://182.114.50.12:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2025-12-10 18:39:30,https://play.kankanlive.com/live/1698234936258960.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://182.114.50.12:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV-2,https://play.kankanlive.com/live/1698234898628961.m3u8
-CCTV-4,http://182.114.50.12:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,https://play.kankanlive.com/live/1698234936258960.m3u8
-CCTV-9,https://play.kankanlive.com/live/1698423397390920.m3u8
-CCTV-10,https://play.kankanlive.com/live/1698423445959919.m3u8
-CCTV-11,http://182.114.50.12:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,https://play.kankanlive.com/live/1698423476198918.m3u8
-CCTV-12,http://182.114.50.12:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,https://play.kankanlive.com/live/1698423511884917.m3u8
-CCTV-13,http://182.114.50.12:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,https://play.kankanlive.com/live/1698423543275916.m3u8
-CCTV-14,https://play.kankanlive.com/live/1698423575756915.m3u8
-CCTV-15,https://play.kankanlive.com/live/1698423607826914.m3u8
-CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8
-CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
+CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
+CETV-1,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/.m3u8
 CETV-1,http://111.43.126.240:7777/hls/34/index.m3u8
+CETV-1,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226925/.m3u8
 CETV-1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
 CETV-1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
 CETV-1,rtsp://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil
 CETV-1,rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil
-CETV-1,http://111.43.126.240:9003/hls/34/index.m3u8
 
 💰央视付费频道,#genre#
 央视台球,http://183.11.239.36:808/hls/73/index.m3u8
@@ -40,7 +26,6 @@ CETV-1,http://111.43.126.240:9003/hls/34/index.m3u8
 风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
 第一剧场,http://1.31.14.70:54321/hls/59/index.m3u8
-第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
 第一剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226961/86128891.smil
 第一剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
@@ -52,12 +37,6 @@ CETV-1,http://111.43.126.240:9003/hls/34/index.m3u8
 风云剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226963/86128874.smil
 风云剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000409?AuthInfo=xxx&userid=gf001&userid=gf001
 怀旧剧场,http://sh.lnott.top:880/dx95.m3u8
-怀旧剧场,http://61.184.46.85:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
-怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
-怀旧剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226996/86128881.smil
-怀旧剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226996/86128881.smil
-怀旧剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226996/86128881.smil
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
 高尔夫网球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
@@ -67,7 +46,12 @@ CETV-1,http://111.43.126.240:9003/hls/34/index.m3u8
 电视指南,rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil
 电视指南,rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
 电视指南,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226969/86129034.smil
-世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+世界地理,http://183.11.239.36:808/hls/11/index.m3u8
+世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
+世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
 兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
 兵器科技,rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
 兵器科技,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
@@ -80,16 +64,15 @@ CETV-1,http://111.43.126.240:9003/hls/34/index.m3u8
 安徽卫视,http://182.114.50.12:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-山东卫视,http://182.114.50.12:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-山西卫视,http://182.114.50.12:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
-陕西卫视,http://182.114.50.12:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🏀体育频道,#genre#
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 爱体育,rtsp://180.95.143.19/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://116.176.26.18/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227315/10000100000000060000000001946406_0.smil
@@ -104,4 +87,5 @@ CETV-1,http://111.43.126.240:9003/hls/34/index.m3u8
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
+睛彩广场舞,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226567/.m3u8
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
