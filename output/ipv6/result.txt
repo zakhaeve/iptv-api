@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-26 07:17:58,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
+2026-05-27 07:17:19,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
 
 📺央视频道,#genre#
 
