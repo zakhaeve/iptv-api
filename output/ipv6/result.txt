@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-18 06:31:19,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
+2026-08-18 18:38:32,url
 
 📺央视频道,#genre#
 
@@ -8,4 +8,3 @@
 📡卫视频道,#genre#
 
 🏀体育频道,#genre#
-精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
