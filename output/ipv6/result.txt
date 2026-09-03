@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-03 08:01:52,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+2026-09-03 22:20:43,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 📺央视频道,#genre#
 
@@ -9,6 +9,4 @@
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 🏀体育频道,#genre#
-精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
